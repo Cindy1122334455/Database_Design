@@ -5,15 +5,20 @@ The challenge of Twitter’s shrinking share in the North American market is esc
 Database Engine Recommendations:
 
 ▪ Primary recommendation / Configuration 1 
+
 ![main](https://user-images.githubusercontent.com/34041602/61651475-2eecd400-ac73-11e9-9861-59e00497b50d.PNG)
 
 ▪ Secondary recommendation/ Configuration 2 
+
 ![second](https://user-images.githubusercontent.com/34041602/61651538-4d52cf80-ac73-11e9-9c28-d1831a5aacf8.PNG)
 
 Execuitive Summary: 
 
 ▪ Nature of data: structured and unstructured
+
 ▪ Primary plan: MySQL & NoSQL
+
 ▪ Secondary plan:  HDFS & Spark
+
 ▪ Governance: Data maintenance, Data Alerting service, Data lifetime service
 
