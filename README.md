@@ -4,7 +4,7 @@ The challenge of Twitter’s shrinking share in the North American market is esc
 
 Database Engine Recommendations:
 ▪ Primary recommendation / Configuration 1 
-
+![main](https://user-images.githubusercontent.com/34041602/61651475-2eecd400-ac73-11e9-9861-59e00497b50d.PNG)
 
 ▪ Secondary recommendation/ Configuration 2 
 
